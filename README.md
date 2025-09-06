@@ -35,9 +35,10 @@ It demonstrates the use of **Java Swing** for GUI development and **file handlin
 
     javac MarvellousUnpackerExperiment.java -d .
 
-2️⃣ **Run the application :**
 
     javac MarvellousPackerUnPackerFinal_GUI.java
+
+2️⃣ **Run the application :**
 
     
     java MarvellousPackerUnPackerFinal_GUI.java
