@@ -22,12 +22,18 @@
 
 ## 🚀 How to Run  
 
-1️⃣ Compile the modules:  
+1️⃣ **Compile the modules:**
+
+
     ```bash```
     javac MarvellousPackerExperiment.java -d .
+
+    
     javac MarvellousUnpackerExperiment.java -d .
 
-2️⃣ Run the application:
+2️⃣ **Run the application:**
+
+
     ```bash```
     java MarvellousPackerUnPackerFinal_GUI
 
