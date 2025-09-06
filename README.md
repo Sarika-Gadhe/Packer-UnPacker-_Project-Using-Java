@@ -1,8 +1,10 @@
 # Packer-UnPacker_Project-Using-Java
 
+---
 This project is a Java-based desktop application with a graphical user interface that allows users to **pack multiple files into a single archive** and later **unpack them back to their original state**.  
 It demonstrates the use of **Java Swing** for GUI development and **file handling** techniques for managing different file types.
 
+---
 ## 🗃️ Overview
 
 
@@ -11,7 +13,7 @@ It demonstrates the use of **Java Swing** for GUI development and **file handlin
 - The **unpacking module** reads metadata, extracts content, and accurately reconstructs the original files.  
 - The application provides a **GUI built with Java Swing**, including a login screen and user-friendly windows for packing and unpacking operations.
 
-
+---
 ## 💫 Features
 
 
@@ -20,12 +22,14 @@ It demonstrates the use of **Java Swing** for GUI development and **file handlin
 - 📂 Unpack: Extract archives and restore original files  
 - 🖥️ GUI powered by Java Swing  
 
+---
 ## ⚙️ Prerequisites
 
 
 - Java Development Kit (JDK 8 or later)  
 - Command-line terminal or Java-supported IDE
 
+---
 ## 🚀 How to Run  
 
 1️⃣ **Compile the modules :**
