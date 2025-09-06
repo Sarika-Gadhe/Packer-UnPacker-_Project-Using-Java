@@ -11,18 +11,20 @@ It demonstrates the use of **Java Swing** for GUI development and **file handlin
 - The **unpacking module** reads metadata, extracts content, and accurately reconstructs the original files.  
 - The application provides a **GUI built with Java Swing**, including a login screen and user-friendly windows for packing and unpacking operations.
 
+
+## 💫 Features
+
+
+- 🔑 Login-based authentication  
+- 📦 Pack: Combine multiple files from a directory into a single archive  
+- 📂 Unpack: Extract archives and restore original files  
+- 🖥️ GUI powered by Java Swing  
+
 ## ⚙️ Prerequisites
 
 
 - Java Development Kit (JDK 8 or later)  
 - Command-line terminal or Java-supported IDE
-
-## 💫 Features
-
-
-- Java Development Kit (JDK 8 or later)  
-- Command-line terminal or Java-supported IDE
-
 
 ## 🚀 How to Run  
 
