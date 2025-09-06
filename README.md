@@ -1,7 +1,7 @@
 # Packer-UnPacker_Project-Using-Java
 
-  This project is a Java-based desktop application with a graphical user interface that allows users to **pack multiple files into a single archive** and later **unpack them back to their original state**.  
-  It demonstrates the use of **Java Swing** for GUI development and **file handling** techniques for managing different file types.
+- This project is a Java-based desktop application with a graphical user interface that allows users to **pack multiple files into a single archive** and later **unpack them back to their original state**.  
+- It demonstrates the use of **Java Swing** for GUI development and **file handling** techniques for managing different file types.
 
 ## 🗃️ Overview
 
@@ -23,12 +23,12 @@
 ## 🚀 How to Run  
 
 1️⃣ Compile the modules:  
-    ```bash
+    ```bash```
     javac MarvellousPackerExperiment.java -d .
     javac MarvellousUnpackerExperiment.java -d .
 
 2️⃣ Run the application:
-    ```bash
+    ```bash```
     java MarvellousPackerUnPackerFinal_GUI
 
 
