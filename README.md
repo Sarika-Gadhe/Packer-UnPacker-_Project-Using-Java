@@ -27,24 +27,14 @@ It demonstrates the use of **Java Swing** for GUI development and **file handlin
 ## 🚀 How to Run  
 
 1️⃣ **Compile the modules :**
-
-        ```bash
-        
-        javac MarvellousPackerExperiment.java -d .
-
-    
-        javac MarvellousUnpackerExperiment.java -d .
+    ```bash
+    javac MarvellousPackerExperiment.java -d .
+    javac MarvellousUnpackerExperiment.java -d .
 
 2️⃣ **Run the application :**
-
-
-```bash
-        
-        javac MarvellousPackerUnPackerFinal_GUI.java
-    
-
-
-        java MarvellousPackerUnPackerFinal_GUI.java
+    ```bash
+    javac MarvellousPackerUnPackerFinal_GUI.java
+    java MarvellousPackerUnPackerFinal_GUI.java
 
 
 
