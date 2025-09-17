@@ -1,4 +1,4 @@
-# <h1>📦File Packer UnPacker Project </h1>
+# <h1>📦 Packer UnPacker Project </h1>
 
 - This project is a Java-based desktop application with a graphical user interface that allows users to **pack multiple files into a single archive** and later **unpack them back to their original state**.  
 - It demonstrates the use of **Java Swing** for GUI development and **file handling** techniques for managing different file types.
