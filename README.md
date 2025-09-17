@@ -1,4 +1,4 @@
-# Packer-UnPacker_Project-Using-Java
+# <h1>📦File Packer UnPacker Project </h1>
 
 This project is a Java-based desktop application with a graphical user interface that allows users to **pack multiple files into a single archive** and later **unpack them back to their original state**.  
 It demonstrates the use of **Java Swing** for GUI development and **file handling** techniques for managing different file types.
@@ -19,9 +19,18 @@ It demonstrates the use of **Java Swing** for GUI development and **file handlin
 - 🔑 Login-based authentication  
 - 📦 Pack: Combine multiple files from a directory into a single archive  
 - 📂 Unpack: Extract archives and restore original files  
-- 🖥️ GUI powered by Java Swing  
+- 🖥️ Intuitive Java Swing-based GUI for easy interaction.
 
 ---
+
+## 📚 Learning Outcomes
+- Hands-on experience with Java I/O Streams and File Handling APIs.
+- Implementation of custom archiving logic.
+- GUI development skills using Swing.
+- Exposure to archiving formats like ZIP/TAR.
+----
+
+
 ## ⚙️ Prerequisites
 
 
