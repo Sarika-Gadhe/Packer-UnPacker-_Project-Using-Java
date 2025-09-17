@@ -13,6 +13,13 @@
 - The application provides a **GUI built with Java Swing**, including a login screen and user-friendly windows for packing and unpacking operations.
 
 ---
+## 🛠 Technologies Used
+- Java (JDK 8+)
+- Swing (GUI)
+
+---
+
+
 ## 💫 Features
 
 
